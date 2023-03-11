@@ -90,7 +90,7 @@
             this.Controls.Add(this.splitContainer1);
             this.IsMdiContainer = true;
             this.Name = "Frnmain";
-            this.Text = "AppraisalDemo";
+            this.Text = "Appraisal Management";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Frnmain_Load);
             this.splitContainer1.Panel1.ResumeLayout(false);
